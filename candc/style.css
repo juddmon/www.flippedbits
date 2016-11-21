@@ -1,0 +1,75 @@
+#main {
+  padding-left: 1.0em;
+  color: black;
+  background-color: white
+}
+
+ul.navbar {
+  background: #d0d0d0;
+  color: white;
+  list-style-type: none;
+  margin: 0;
+  position: absolute;
+  top: 2em;
+  width: 10em;
+  border-right: 0.4em solid black;
+  border-bottom: 0.4em solid black;
+  padding: 1em 1em 1em 1em;
+}
+ul.navbar {
+  -moz-border-radius: 1em;
+}
+
+ul.navbar li {
+  padding: 0em 0em 0em 0em;
+  font-weight:bold;
+}
+
+#navbar
+{
+  position: fixed;
+  left: 2em;
+  width: 10em;
+  color: black;
+  background: white;
+  text-align: left;
+}
+
+#navbar ul li a:hover {
+  background-color:     #000;
+  color: yellow;
+  text-decoration:      none;
+}
+
+#navbar ul li a {
+  text-decoration:      none;
+}
+
+date {
+  font-weight:bold;
+  padding: 0.5em;
+}
+
+entry {
+  display: block;
+  padding: 0em 6em 0em 3em;
+}
+
+boxlabel {
+  background: #d0d0d0;
+  color: black;
+  font-weight:bold;
+  padding: 0.25em;
+}
+
+hr {
+  background: url(images/hr1.png) repeat-x;
+  height: 4px;
+  border-style: none;
+}
+
+hr {
+  background: url(images/hr1.png) repeat-x;
+  height: 4px;
+  border-style: none;
+}
